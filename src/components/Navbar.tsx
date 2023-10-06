@@ -6,7 +6,7 @@ const Navbar:FC = () => {
     <nav className=''>
       <ul className='py-2 border-t border-gray-300'>
         <li className='space-x-6 text-xs'>
-          <Link href="/world">World</Link>
+          <Link href="/world">Worlds</Link>
           <Link href="/business">Business</Link>
           <Link href="/science">Science</Link>
           <Link href="/health">Health</Link>
